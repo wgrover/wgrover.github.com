@@ -1,0 +1,9 @@
+---
+layout: post
+title: "Test post"
+---
+
+{{ page.title }}
+================
+
+Testing [1 2 3](http://wgrover.com)
