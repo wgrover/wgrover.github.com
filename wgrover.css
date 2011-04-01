@@ -33,10 +33,9 @@ h3 {
 	font-family: sans-serif;
 }
 
-img {
-	margin-right: 10px;
-	margin-bottom: 10px;
-}
+
+img { border-width: 0; float: right } 
+
 
 h4 {
 	margin-right: 20px;
