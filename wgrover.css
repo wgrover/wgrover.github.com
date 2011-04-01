@@ -1,10 +1,11 @@
 p {
-	margin-right: 100px;
-	margin-left: 100px;
-	padding-bottom: 0px;
-	margin-bottom: 0px;
-	padding-top: 0px;
-	margin-top: 5px;
+/*  margin-right: 100px;
+    margin-left: 100px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    margin-top: 5px;*/
+    width: 80%;
 	font-family: sans-serif;
 }
 
