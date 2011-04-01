@@ -5,8 +5,8 @@ title: Online Writing
 <h2 id="intro">The five most recent posts.</h2>
 {% for post in site.posts limit:5 %}
   <div class="post">
+		<hr>
   {{ post.content }}
-	<hr>
   <p class="signoff">
     &mdash;<a href="{{ post.url }}">{{ post.date | date: "%b %d, %Y" }}</a>
   </p>
