@@ -6,7 +6,7 @@ title: "Using buoyant mass to measure the growth of single cells"
 ![](images/cell_growth.jpg)
 
 {{ page.title }}
-================
+----------------
 
 M. Godin, F. F. Delgado, S. Son, W. H. Grover, A. K. Bryan, A. Tzur, P. Jorgensen, K. Payer, A. D. Grossman, M. W. Kirschner, and S. R. Manalis, *Nature Methods* **7**, 387 - 390 (2010).  [PDF](pdfs/cell_growth.pdf)
 
