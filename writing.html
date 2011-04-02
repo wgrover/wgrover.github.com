@@ -1,0 +1,17 @@
+---
+layout: default
+title: Writing
+---
+<h2>Writing</h2>
+{% for post in site.posts limit:50 %}
+  {% if site.categories contains 'writing'%}
+  <div class="post">
+		<hr>
+  {{ post.content }}
+  {{ post.categories }}
+  <!-- <p class="signoff">
+    &mdash;<a href="{{ post.url }}">{{ post.date | date: "%b %d, %Y" }}</a>
+  </p> -->
+  </div>
+  {% endif %}
+{% endfor %}
