@@ -4,7 +4,7 @@ title: Home
 ---
 <h2>Research</h2>
 {% for post in site.posts limit:50 %}
-  {% if site.categories contains 'research'%}
+  {% if site.categories == 'research' %}
   <div class="post">
 		<hr>
   {{ post.content }}
