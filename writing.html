@@ -4,7 +4,7 @@ title: Writing
 ---
 <h2>Writing</h2>
 {% for post in site.posts limit:50 %}
-  {% if site.categories contains 'writing'%}
+  {% if post.categories contains 'writing' %}
   <div class="post">
 		<hr>
   {{ post.content }}
