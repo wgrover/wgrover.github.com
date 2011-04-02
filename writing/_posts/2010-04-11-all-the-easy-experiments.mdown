@@ -3,8 +3,6 @@ layout: post
 title: "All the easy experiments"
 ---
 
-![](images/cell_growth.jpg)
-
 {{ page.title }}
 ----------------
 
