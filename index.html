@@ -4,7 +4,9 @@ title: Home
 ---
 <h2>Research</h2>
 {% for post in site.posts limit:50 %}
-  {% if site.categories contains 'research'%}
+  <!-- {% if site.categories contains 'research'%} -->
+  {% for cat in post.categories %}
+    {% if cat contains 'research'%}
   <div class="post">
 		<hr>
   {{ post.content }}
@@ -14,4 +16,5 @@ title: Home
   </p> -->
   </div>
   {% endif %}
+{% endfor %}
 {% endfor %}
