@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Localized deposition of zinc oxide films by automated fluid dispensing method"
+---
+
+![](images/film_deposition.gif)
+
+{{ page.title }}
+----------------
+
+K. Domansky, A. Rose, W.H. Grover, G.J. Exarhos, *Materials Science and Engineering B* **76** (2) 116-121, 2000.  [PDF](pdfs/film_deposition.pdf)
+
+Optically clear Au- and Ga-doped zinc oxide films have been locally deposited from solution precursors on silicon and silica substrates as micrometer size dots using an automated fluid dispensing method. Dot dimensions have been shown to be strongly dependent on the solution composition and substrate temperature. Solution-dispensed films have been characterized by means of optical transmission and reflectance spectroscopy, spectroscopic ellipsometry, and profilometry measurements. Trivalent Au- and Ga-doped zinc oxide features about 500 mu m in diameter were deposited on chemically-sensitive field-effect transistors (CHEM-FET). Contrasting behavior in measured work function and film resistance was found for Au and Ga doped films upon exposure to hydrogen and ammonia.

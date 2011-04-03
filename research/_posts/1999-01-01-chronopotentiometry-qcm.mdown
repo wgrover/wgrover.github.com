@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Inverse derivative chronopotentiometry quartz crystal microgravimetry of solid conducting salt films"
+---
+
+![](images/chronopotentiometry_qcm.gif)
+
+{{ page.title }}
+----------------
+
+K.M. Scaboo, W.H. Grover, J.Q. Chambers, *Analytica Chimica Acta* **380** (1) 47-54, 1999.  [PDF](pdfs/chronopotentiometry_qcm.pdf)
+
+An instrument, built in-house, for the purpose of making derivative chronopotentiometric and quartz crystal microgravimetric measurements is described. The spreadsheet-based software allows for presentation of the raw or derivative data of both the chronopotentiometric and gravimetric measurements in either the time or potential domain. The system was used to study the nucleation-controlled growth of the phase transition associated with the TCNQ(0/-1) couple isolated from a thin film of the conducting salt 9-aminoacridinium tetracyanoquinodimethane. The dt/dE-E curves for a nucleation process are presented along with the Hillman-Bruckenstein analysis of the corresponding mass changes of the film.
