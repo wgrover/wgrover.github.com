@@ -1,0 +1,11 @@
+---
+layout: post
+title: "About this site"
+---
+
+<!-- ![](images/hamilton_bsr.png) -->
+
+{{ page.title }}
+----------------
+
+This site is generated using [Jekyll](http://jekyllrb.com/) and hosted on [Github](http://github.com).  If you're so inclined, you can see site's source on its [Github repository](https://github.com/wgrover/wgrover.github.com).  The original code was based on [Alex Payne's website](http://al3x.net/).

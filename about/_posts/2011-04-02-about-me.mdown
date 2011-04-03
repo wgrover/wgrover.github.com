@@ -1,0 +1,11 @@
+---
+layout: post
+title: "About me"
+---
+
+![](images/hamilton_bsr.png)
+
+{{ page.title }}
+----------------
+
+nothing to see here...
