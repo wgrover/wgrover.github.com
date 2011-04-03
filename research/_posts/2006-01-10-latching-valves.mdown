@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Development and multiplexed control of latching pneumatic valves using microfluidic logical structures"
+---
+
+![](images/latching_valves.gif)
+
+{{ page.title }}
+----------------
+
+W.H. Grover, R.H.C. Ivester, E.C. Jensen, and R.A. Mathies, *Lab on a Chip* **6** (5), 623-631, 2006. [PDF](pdfs/latching_valves.pdf)
+
+Novel latching microfluidic valve structures are developed, characterized, and controlled independently using an on-chip pneumatic demultiplexer. These structures are based on pneumatic monolithic membrane valves and depend upon their normally-closed nature. Latching valves consisting of both three- and four-valve circuits are demonstrated. Vacuum or pressure pulses as short as 120 ms are adequate to hold these latching valves open or closed for several minutes. In addition, an on-chip demultiplexer is demonstrated that requires only n pneumatic inputs to control 2^(n-1) independent latching valves. These structures can reduce the size, power consumption, and cost of microfluidic analysis devices by decreasing the number of off-chip controllers. Since these valve assemblies can form the standard logic gates familiar in electronic circuit design, they should be useful in developing complex pneumatic circuits.
