@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Microfluidic Molecular Processors for Computation and Analysis"
+---
+
+<!-- ![](images/hamilton_bsr.png) -->
+
+{{ page.title }}
+----------------
+
+PhD Thesis, University of California, Berkeley, 2006.  [PDF](pdfs/wgrover_thesis.pdf)

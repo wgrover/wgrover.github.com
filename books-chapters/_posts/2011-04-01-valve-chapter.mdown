@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Monolithic Membrane Valves and Pumps"
+---
+
+<!-- ![](images/hamilton_bsr.png) -->
+
+{{ page.title }}
+----------------
+
+William H. Grover and Richard A. Mathies.  Chapter 19 in [Lab-on-a-Chip Technology Volume 1: Fabrication and Microfluidics](http://www.horizonpress.com/loc1), Keith E. Herold and Avraham Rasooly, editors.  Norfolk, UK:  Caister Academic Press, 2009.
+
