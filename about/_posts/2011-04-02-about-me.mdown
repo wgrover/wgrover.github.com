@@ -3,9 +3,9 @@ layout: post
 title: "About me"
 ---
 
-<!-- ![](images/hamilton_bsr.png) -->
+![](images/wgrover.jpg)
 
 {{ page.title }}
 ----------------
 
-I'm a Research Associate in [Scott Manalis' group](http://manalis-lab.mit.edu/) in the [David H. Koch Institute for Integrative Cancer Research](http://ki.mit.edu/) and the [Department of Biological Engineering](http://web.mit.edu/be/) at [MIT](http://www.mit.edu).  I received my PhD in Chemistry from the [University of California, Berkeley](http://www.berkeley.edu) in [Richard Mathies' group](http://endlesstrek.com/), and my BS in Chemistry from the [University of Tennessee, Knoxville](http://www.utk.edu).
+I'm a Research Associate in [Scott Manalis' group](http://manalis-lab.mit.edu/) in the [Department of Biological Engineering](http://web.mit.edu/be/) and the [David H. Koch Institute for Integrative Cancer Research](http://ki.mit.edu/) at [MIT](http://www.mit.edu).  I received my PhD in Chemistry from the [University of California, Berkeley](http://www.berkeley.edu) in [Richard Mathies' group](http://endlesstrek.com/), and my BS in Chemistry from the [University of Tennessee, Knoxville](http://www.utk.edu).
