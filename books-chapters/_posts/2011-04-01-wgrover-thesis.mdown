@@ -3,7 +3,7 @@ layout: post
 title: "Microfluidic Molecular Processors for Computation and Analysis"
 ---
 
-<!-- ![](images/hamilton_bsr.png) -->
+![](images/duck.jpg)
 
 {{ page.title }}
 ----------------
