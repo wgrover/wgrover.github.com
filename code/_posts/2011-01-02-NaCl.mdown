@@ -1,0 +1,15 @@
+---
+layout: post
+title: "[NaCl](http://github.com/wgrover/NaCl)"
+---
+
+![](images/lab-on-a-chip_book_chapter.jpg)
+
+{{ page.title }}
+----------------
+
+**Python code for precisely calculating the density of sodium chloride solutions**
+
+Modrilla reads in a DXF CAD file containing circles at the locations where holes are to be drilled, and generates a file that can be used to drill the glass wafer on a CNC mill (G-code) or a Roland Modela mill (shell script).  In addition, to facilitate wafer alignment, Modrilla can directly control a Modela mill.
+
+A ready-to-run [Java JAR file]() and the [Java source code](http://github.com/wgrover/modrilla) are available on Github.
