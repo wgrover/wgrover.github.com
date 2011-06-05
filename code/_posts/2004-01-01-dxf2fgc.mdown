@@ -8,6 +8,6 @@ title: "dxf2fgc"
 {{ page.title }}
 ----------------
 
-LabVIEW software for drilling holes in glass wafers
+*LabVIEW software for drilling holes in glass wafers*
 
 Since their initial description in 2003, monolithic membrane valves and pumps have found uses in lab-on-a-chip devices for a variety of different applications. These valves and pumps offer a variety of advantages over conventional ‘soft lithography’ structures, including improved assay compatibility, resistance to virtually all chemicals, and the ability to control device operation using on- chip valve-based logical circuits. In this chapter we introduce monolithic membrane valves and pumps. We then present a detailed description of the materials and methods used to fabricate devices containing monolithic membrane valves and pumps. Using these methods, researchers have fabricated lab-on-a-chip devices for a great variety of different applications, and we examine several of these applications in detail. Finally, prospects for future monolithic membrane valve- and pump-based devices are considered.
