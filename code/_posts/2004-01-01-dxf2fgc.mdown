@@ -3,7 +3,7 @@ layout: post
 title: "[dxf2fgc](http://github.com/wgrover/dxf2fgc)"
 ---
 
-![](images/lab-on-a-chip_book_chapter.jpg)
+![](images/dxf2fgc.png)
 
 {{ page.title }}
 ----------------
