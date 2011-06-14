@@ -40,7 +40,11 @@ h3 {
 }
 
 
-img { margin: 10px; float: left } 
+img { margin-left: 0px; 
+    margin-right: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    float: left } 
 
 hr { border: 0; width: 100%; color: #000000; background-color: #000000; height: 5px; }
 
