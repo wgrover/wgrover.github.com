@@ -3,13 +3,13 @@ layout: post
 title: "[ocw](http://github.com/wgrover/ocw)"
 ---
 
-![](images/lab-on-a-chip_book_chapter.jpg)
+![](images/ocw.png)
 
 {{ page.title }}
 ----------------
 
 **LabVIEW software for controlling microfluidic devices**
 
-Modrilla reads in a DXF CAD file containing circles at the locations where holes are to be drilled, and generates a file that can be used to drill the glass wafer on a CNC mill (G-code) or a Roland Modela mill (shell script).  In addition, to facilitate wafer alignment, Modrilla can directly control a Modela mill.
+*ocw* is a set of LabVIEW VIs that provide a framework for easy, robust, programmable control of microfluidic devices.
 
-A ready-to-run [Java JAR file]() and the [Java source code](http://github.com/wgrover/modrilla) are available on Github.
+The [LabVIEW source](http://github.com/wgrover/ocw) is available on Github.
