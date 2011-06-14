@@ -3,7 +3,7 @@ layout: post
 title: "[modrilla](http://github.com/wgrover/modrilla)"
 ---
 
-![](images/lab-on-a-chip_book_chapter.jpg)
+![](images/modrilla.png)
 
 {{ page.title }}
 ----------------
