@@ -3,7 +3,7 @@ layout: post
 title: "Inverse derivative chronopotentiometry quartz crystal microgravimetry of solid conducting salt films"
 ---
 
-![](images/chronopotentiometry_qcm.gif)
+[![](images/chronopotentiometry_qcm.gif)](pdfs/chronopotentiometry_qcm.pdf)
 
 {{ page.title }}
 ----------------
