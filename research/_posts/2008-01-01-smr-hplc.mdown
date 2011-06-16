@@ -3,7 +3,7 @@ layout: post
 title: "Suspended microchannel resonators for ultralow volume universal detection"
 ---
 
-![](images/smr_hplc.jpg)
+[![](images/smr_hplc.jpg)](pdfs/smr_hplc.pdf)
 
 {{ page.title }}
 ----------------

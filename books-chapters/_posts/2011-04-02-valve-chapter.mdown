@@ -3,7 +3,7 @@ layout: post
 title: "Monolithic Membrane Valves and Pumps"
 ---
 
-![](images/lab-on-a-chip_book_chapter.jpg)
+[![](images/lab-on-a-chip_book_chapter.jpg)](http://www.horizonpress.com/loc1)
 
 {{ page.title }}
 ----------------

@@ -3,7 +3,7 @@ layout: post
 title: "[ocw](http://github.com/wgrover/ocw)"
 ---
 
-![](images/ocw.png)
+[![](images/ocw.png)](http://github.com/wgrover/ocw)
 
 {{ page.title }}
 ----------------

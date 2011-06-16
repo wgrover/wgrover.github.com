@@ -3,7 +3,7 @@ layout: post
 title: "Microfluidic serial dilution circuit"
 ---
 
-![](images/serial_dilution.gif)
+[![](images/serial_dilution.gif)](pdfs/serial_dilution.pdf)
 
 {{ page.title }}
 ----------------

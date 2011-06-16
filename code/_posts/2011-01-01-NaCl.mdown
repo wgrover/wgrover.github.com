@@ -3,7 +3,7 @@ layout: post
 title: "[NaCl](http://github.com/wgrover/NaCl)"
 ---
 
-![](images/NaCl.png)
+[![](images/NaCl.png)](http://github.com/wgrover/NaCl)
 
 {{ page.title }}
 ----------------

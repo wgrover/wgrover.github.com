@@ -3,7 +3,7 @@ layout: post
 title: "Teflon films for chemically-inert microfluidic valves and pumps"
 ---
 
-![](images/teflon_valves.gif)
+[![](images/teflon_valves.gif)](pdfs/teflon_valves.pdf)
 
 {{ page.title }}
 ----------------
