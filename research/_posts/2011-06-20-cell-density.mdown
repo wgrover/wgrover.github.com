@@ -3,7 +3,7 @@ layout: post
 title: "Measuring single-cell density"
 ---
 
-![](images/cell_density.png)
+[![](images/cell_density.png)](pdfs/cell_density.pdf)
 
 {{ page.title }}
 ----------------
