@@ -3,6 +3,8 @@ layout: post
 title: "Science for Github"
 ---
 
+<a name="science_for_github">
+
 ![](images/octocat_professor.png)
 
 {{ page.title }}
@@ -28,7 +30,7 @@ I'm sure you'll want your code to appear in the *Best* tier of your relevant lan
 
 First, the management of the *Best* tier decides whether your code is even worth sending out for review.  Since the management of the *Best* tier receives hundreds of submissions every month but accepts only a few, they can afford to be choosy about what they accept.  If the management deems your code unsuitable for any reason -- maybe your chosen programming language is pass&eacute;, or you defined a named function when you could have used a nice anonymous one -- then sorry, better luck next time.
 
-If your code is lucky enough to clear this first hurdle, the management sends it out to two or three other coders for review.  The coders receive only the one code you're submitting, and no other information about other code you've written, or similar code that others may have done.  If they want that background information, they'll have to get it themselves -- hopefully they have the right Github subscriptions!
+If your code is lucky enough to clear this first hurdle, the management sends it out to two or three other coders for review.  The coders receive only the code you're submitting, and no other information about code you reference in your code, or other code you've written in the past, or similar code that others may have written.  If they want that background information, they'll have to get it themselves -- hopefully they have the right Github subscriptions!
 
 You won't know which two or three developers are reviewing your work.  Your killer Python code may be reviewed by someone who's proficient in Python, or you might get a wizened old COBOL master, or a Haskell zealot, or a Ruby evangelist.  Even though the internet is littered with flamewars between coders who each passionately believe that their favorite language is the best, we somehow believe that these same coders will assess your project fairly.
 
@@ -40,7 +42,7 @@ If your code is accepted to your chosen subdivision of the *Everything Else Pyth
 
 If the *Everything else* tier says no, then regardless of how good or original or useful or valuable your code may or may not be, Github will have nothing to do with it.  You can either put your code on your website and hope that Google finds it, or retire your code to the obscurity of your hard drive.
 
-Finally, what if you want to contribute to code already on Github?  On our new Github that's virtually impossible.  You can't fork someone else's code because Github owns the copyright on it -- the author had to give their copyright rights to Github before their code was accepted.  You can't even edit your own code after its accepted, although if you find a bug in your accepted code, you can submit a bug report that'll appear alongside your (uncorrected) code on Github.
+Finally, what if you want to contribute to code already on Github?  On our new Github that's virtually impossible.  You can't fork someone else's code because Github owns the copyright on it -- the author had to give their copyright rights to Github before their code was accepted.  You can't even edit your own code after it's accepted, although if you find a bug in your accepted code, you can submit a bug report that'll appear alongside your (uncorrected) code on Github.
 
 Anyone interested in submitting their code to this bizarro-world version of Github?  I really doubt it.  Coders have rightly grown accustomed to the efficient collaboration, distributed code reviewing, centralized record of a coder's accomplishments, and other features that tools like Github provide.  But the bizarro-world Github I described is the real world in which biologists, chemists, and other scientists share their research and build their reputations.
 
