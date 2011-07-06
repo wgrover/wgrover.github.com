@@ -21,3 +21,5 @@ See also the [MIT News story "How dense is a cell?"](http://web.mit.edu/newsoffi
 </center>
 
 Thanks to Leiden University's Cell Observatory for choosing this as their [publication of the week](http://cellobservatory.lic.leidenuniv.nl/news/publication-week-23).
+
+This paper was highlighted in the ["In This Issue" feature of PNAS](http://www.pnas.org/content/108/27/10927.full) on July 5, 2011.
