@@ -26,7 +26,7 @@ That's all you need to know to *subscribe* to our new Github.  If you want to *c
 
 I'm sure you'll want your code to appear in the *Best* tier of your relevant language, not the *Everything Else* tier.  But since Github can't just put everything into the *Best* tier, they use the following process to determine which tier your project belongs in:
 
-First, the management of the *Best* tier decides whether your code is even worth sending out for review.  Since the management of the *Best* tier receives hundreds of submissions every month but accepts only a few, they can afford to be choosy about what they accept.  If the management deems your code unsuitable for any reason -- maybe your chosen programming language is pass&aacute;, or you defined a named function when you could have used a nice anonymous one -- then sorry, better luck next time.
+First, the management of the *Best* tier decides whether your code is even worth sending out for review.  Since the management of the *Best* tier receives hundreds of submissions every month but accepts only a few, they can afford to be choosy about what they accept.  If the management deems your code unsuitable for any reason -- maybe your chosen programming language is pass&eacute;, or you defined a named function when you could have used a nice anonymous one -- then sorry, better luck next time.
 
 If your code is lucky enough to clear this first hurdle, the management sends it out to two or three other coders for review.  The coders receive only the one code you're submitting, and no other information about other code you've written, or similar code that others may have done.  If they want that background information, they'll have to get it themselves -- hopefully they have the right Github subscriptions!
 
