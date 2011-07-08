@@ -3,7 +3,9 @@ layout: post
 title: "Science for Github"
 ---
 
+<!-- KEEP THIS TO AVOID BREAKING OLD REFERENCES TO THIS POST -->
 <a name="science_for_github"> </a>
+<!-- KEEP THIS TO AVOID BREAKING OLD REFERENCES TO THIS POST -->
 
 ![](http://wgrover.com/images/octocat_professor.png)
 
