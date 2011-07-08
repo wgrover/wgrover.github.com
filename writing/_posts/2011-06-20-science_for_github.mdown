@@ -48,4 +48,4 @@ Anyone interested in submitting their code to this bizarro-world version of Gith
 
 Peer review is undeniably important, and our reverence for it is a big reason why we are still using a centuries-old paradigm for publishing our research.  But Github processes vastly more content than conventional journals do, without editors or conventional peer review, and yet the best code (and the best coders) still manage to receive the exposure they deserve on Github.  Fellow scientists, could we do the same?
 
-<a href="http://twitter.com/share" class="twitter-share-button" data-text="text here" data-count="horizontal" data-via="wgrover">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<a href="http://twitter.com/share" class="twitter-share-button" data-url="asdf" data-text="asdf" data-count="vertical" data-via="wgrover">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
