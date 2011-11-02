@@ -22,6 +22,7 @@ int ymax = 850;
 PFont f;
 PFont fbold;
 PFont fbig;
+PFont fmedium;
 int leftmargin = 50;
 int topmargin = 175;
 int linelength = xmax - leftmargin - 50;
@@ -70,6 +71,7 @@ public void setup() {
   f = loadFont("SansSerif.plain-12.vlw");
   fbold = loadFont("SansSerif.bold-12.vlw");
   fbig = loadFont("SansSerif.bold-30.vlw");
+  fmedium = loadFont("SansSerif.plain-18.vlw");
   filein = loadStrings("density_data.txt");
   for (int i = 0; i < filein.length; i++) {
     println(filein[i]);
@@ -283,8 +285,18 @@ public void draw() {
     rho += 0.001f;
   }
   
-
-
+  
+  strokeWeight(3.0f);
+  stroke(255,0,0);
+  line(166,150,213,150);
+  line(166,150,166,160);
+  line(        213,150,213,160);
+  line((166+213)/2,150, (166+213)/2, 140);
+  fill(255,0,0);
+  textFont(fmedium, 18);
+  text("Current resolution of", (166+213)/2, 78);
+  text("density spectrometry", (166+213)/2, 100);
+  text("(0.001 g/mL)", (166+213)/2, 122);
 }
 
 public void mouseDragged() {
