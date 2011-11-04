@@ -13,7 +13,8 @@ p {
 /*    margin-top: 5px;*/
 /*	font-family: sans-serif;*/
 /*	font-family: 'Droid Sans', sans-serif;*/
-	font-family: 'Droid Serif', serif;
+/*	font-family: 'Droid Serif', serif;*/
+	font-family: 'Chivo', sans-serif;
 }
 
 h2 {  
@@ -22,7 +23,8 @@ h2 {
 /*  margin-left: 10%;*/
 /*	font-family: sans-serif;*/
 /*	font-family: 'Droid Sans', sans-serif;*/
-	font-family: 'Droid Serif', serif;
+/*	font-family: 'Droid Serif', serif;*/
+	font-family: 'Chivo', sans-serif;
 	margin-bottom: 0px;
 	margin-top: 0px;
 }
@@ -34,7 +36,8 @@ h1 {
 /*  margin-left: 10%;*/
 /*	font-family: sans-serif;*/
 /*	font-family: 'Droid Sans', sans-serif;*/
-	font-family: 'Droid Serif', serif;
+/*	font-family: 'Droid Serif', serif;*/
+	font-family: 'Chivo', sans-serif;
 }
 
 h3 {
@@ -44,7 +47,8 @@ h3 {
 /*  margin-left: 20px;*/
 /*	font-family: sans-serif;*/
 /*	font-family: 'Droid Sans', sans-serif;*/
-	font-family: 'Droid Serif', serif;
+/*	font-family: 'Droid Serif', serif;*/
+	font-family: 'Chivo', sans-serif;
 	float: right;
 }
 
@@ -62,7 +66,8 @@ h4 {
 /*  margin-left: 20px;*/
 /*	font-family: sans-serif;*/
 /*	font-family: 'Droid Sans', sans-serif;*/
-	font-family: 'Droid Serif', serif;
+/*	font-family: 'Droid Serif', serif;*/
+	font-family: 'Chivo', sans-serif;
 }
 
 h5 {
@@ -72,7 +77,8 @@ h5 {
 /*  margin-left: 20px;*/
 /*	font-family: sans-serif;*/
 /*	font-family: 'Droid Sans', sans-serif;*/
-	font-family: 'Droid Serif', serif;
+/*	font-family: 'Droid Serif', serif;*/
+	font-family: 'Chivo', sans-serif;
 }
 
 a {
@@ -83,7 +89,8 @@ a {
 	color: #7f7f7f;
 /*	font-family: sans-serif;*/
 /*	font-family: 'Droid Sans', sans-serif;*/
-	font-family: 'Droid Serif', serif;
+/*	font-family: 'Droid Serif', serif;*/
+	font-family: 'Chivo', sans-serif;
 }
 
 .post .signoff {
@@ -96,5 +103,6 @@ a {
   /*    margin-top: 5px;*/
 /*  	font-family: sans-serif;*/
 /*font-family: 'Droid Sans', sans-serif;*/
-font-family: 'Droid Serif', serif;
+/*font-family: 'Droid Serif', serif;*/
+font-family: 'Chivo', sans-serif;
 }
