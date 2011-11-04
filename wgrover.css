@@ -106,10 +106,10 @@ h5 {
 }
 
 a {
-  font-style: normal;*/
+  font-style: none;*/
   text-transform: none;
   text-decoration: none;
-  font-weight: normal;
+  font-weight: bold;
 	color: #7f7f7f;
 /*	font-family: sans-serif;*/
 	font-family: 'Droid Sans', sans-serif;
