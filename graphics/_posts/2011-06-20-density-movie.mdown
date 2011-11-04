@@ -3,7 +3,7 @@ layout: post
 title: "[dxf2fgc](http://github.com/wgrover/dxf2fgc)"
 ---
 
-[![](../images/dxf2fgc.png)](http://github.com/wgrover/dxf2fgc)
+<object width="425" height="349"><param name="movie" value="http://www.youtube.com/v/P5M_C_P02DQ?version=3&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/P5M_C_P02DQ?version=3&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" width="425" height="349" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 
 {{ page.title }}
 ----------------
