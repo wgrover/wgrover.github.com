@@ -3,7 +3,7 @@ layout: post
 title: "[dxf2fgc](http://github.com/wgrover/dxf2fgc)"
 ---
 
-[![](images/dxf2fgc.png)](http://github.com/wgrover/dxf2fgc)
+[![](../images/dxf2fgc.png)](http://github.com/wgrover/dxf2fgc)
 
 {{ page.title }}
 ----------------
