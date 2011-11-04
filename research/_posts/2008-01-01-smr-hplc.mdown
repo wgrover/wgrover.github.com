@@ -8,6 +8,6 @@ title: "Suspended microchannel resonators for ultralow volume universal detectio
 {{ page.title }}
 ----------------
 
-S. Son, W.H. Grover, T.P. Burg, and S.R. Manalis, *Analytical Chemistry* **80** (12), 4757-4760, 2008. [PDF](pdfs/smr_hplc.pdf)
+S. Son, W.H. Grover, T.P. Burg, and S.R. Manalis, *Analytical Chemistry* **80** (12), 4757-4760, 2008. [Download](pdfs/smr_hplc.pdf)
 
 Universal detectors that maintain high sensitivity as the detection volume is reduced to the subnanoliter scale can enhance the utility of miniaturized total analysis systems (&#956;-TAS). Here the unique scaling properties of the suspended microchannel resonator (SMR) are exploited to show universal detection in a 10 pL analysis volume with a density detection limit of similar to 1 &#956;g cm<sup>3</sup> (10 Hz bandwidth) and a dynamic range of 6 decades. Analytes with low UV extinction coefficients such as polyethylene glycol (PEG) 8 kDa, glucose, and glycine are measured with molar detection limits of 0.66, 13.5, and 31.6 &#956;M, respectively. To demonstrate the potential for real-time monitoring, gel filtration chromatography was used to separate different molecular weights of PEG as the SMR acquired a chromatogram by measuring the eluate density. This work suggests that the SMR could offer a simple and sensitive universal detector for various separation systems from liquid chromatography to capillary electrophoresis. Moreover, since the SMR is itself a microfluidic channel, it can be directly integrated into &#956;-TAS without compromising overall performance.
