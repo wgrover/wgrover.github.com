@@ -20,4 +20,8 @@ See also the [MIT News story "How dense is a cell?"](http://web.mit.edu/newsoffi
 <object width="425" height="349"><param name="movie" value="http://www.youtube.com/v/P5M_C_P02DQ?version=3&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/P5M_C_P02DQ?version=3&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" width="425" height="349" allowscriptaccess="always" allowfullscreen="true"></embed></object>
 </center>
 
-This paper was highlighted in the ["In This Issue" feature of PNAS](http://www.pnas.org/content/108/27/10927.full) on July 5, 2011.  Thanks to Leiden University's Cell Observatory for choosing this as their [publication of the week](http://cellobservatory.lic.leidenuniv.nl/news/publication-week-23).  Thanks also to National Institute of General Medical Sciences for featuring this in their [Biomedical Beat](http://publications.nigms.nih.gov/biobeat/11-07-21/index.html#3).
+This paper was highlighted in the ["In This Issue" feature of PNAS](http://www.pnas.org/content/108/27/10927.full) on July 5, 2011.
+
+Thanks to Leiden University's Cell Observatory for choosing this as their [publication of the week](http://cellobservatory.lic.leidenuniv.nl/news/publication-week-23).
+
+Thanks to National Institute of General Medical Sciences for featuring this in their [Biomedical Beat](http://publications.nigms.nih.gov/biobeat/11-07-21/index.html#3).
