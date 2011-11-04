@@ -24,7 +24,7 @@ p {
 }
 
 h2 {  
-/*    USED FOR POST TITLES*/
+/*    USED FOR POST TITLES AND MENU BAR */
 font-size:1.5em;
 /*  margin-right: 10%;*/
 /*  margin-left: 10%;*/
@@ -40,6 +40,8 @@ font-size:1.5em;
 }
 
 h1 {
+/*	USED FOR MAIN TITLE*/
+	font-size:2.0em;
 	margin-bottom: 10px;
 	margin-top: 100px;
 /*  margin-right: 10%;*/
