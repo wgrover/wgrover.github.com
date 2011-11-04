@@ -1,0 +1,15 @@
+---
+layout: post
+title: "[dxf2fgc](http://github.com/wgrover/dxf2fgc)"
+---
+
+[![](../images/dxf2fgc.png)](http://github.com/wgrover/dxf2fgc)
+
+{{ page.title }}
+----------------
+
+**LabVIEW software for drilling holes in glass wafers**
+
+dxf2fgc reads in a DXF CAD file containing circles at the locations where holes are to be drilled, and generates a G-Code file which can be run on a CNC mill to drill the wafer.
+
+This code has been mostly replaced by the newer Modrilla (above), but I keep the [LabVIEW source for dxf2fgc](http://github.com/wgrover/dxf2fgc) (along with a [manual](http://github.com/wgrover/dxf2fgc/raw/master/dxf2fgc.pdf) that may be helpful to anyone interested in drilling holes in glass) on Github.
