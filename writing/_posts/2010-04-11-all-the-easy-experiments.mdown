@@ -3,7 +3,7 @@ layout: post
 title: "All the easy experiments: A Berkeley professor, dirty bombs, and the birth of informed consent"
 ---
 
-[![](http://wgrover.com/images/hamilton_bsr.png)](pdfs/hamilton_bsr.pdf)
+[![](../images/hamilton_bsr.png)](pdfs/hamilton_bsr.pdf)
 
 {{ page.title }}
 ----------------
