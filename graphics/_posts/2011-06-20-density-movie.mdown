@@ -3,7 +3,7 @@ layout: post
 title: "[dxf2fgc](http://github.com/wgrover/dxf2fgc)"
 ---
 
-<object width="425" height="349"><param name="movie" value="http://www.youtube.com/v/P5M_C_P02DQ?version=3&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/P5M_C_P02DQ?version=3&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" width="425" height="349" allowscriptaccess="always" allowfullscreen="true"></embed></object>
+
 
 {{ page.title }}
 ----------------
@@ -13,3 +13,5 @@ title: "[dxf2fgc](http://github.com/wgrover/dxf2fgc)"
 dxf2fgc reads in a DXF CAD file containing circles at the locations where holes are to be drilled, and generates a G-Code file which can be run on a CNC mill to drill the wafer.
 
 This code has been mostly replaced by the newer Modrilla (above), but I keep the [LabVIEW source for dxf2fgc](http://github.com/wgrover/dxf2fgc) (along with a [manual](http://github.com/wgrover/dxf2fgc/raw/master/dxf2fgc.pdf) that may be helpful to anyone interested in drilling holes in glass) on Github.
+
+<object width="425" height="349"><param name="movie" value="http://www.youtube.com/v/P5M_C_P02DQ?version=3&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/P5M_C_P02DQ?version=3&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" width="425" height="349" allowscriptaccess="always" allowfullscreen="true"></embed></object>
