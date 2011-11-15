@@ -3,12 +3,12 @@ layout: post
 title: "Microfluidic Molecular Processors for Computation and Analysis"
 ---
 
-[![](../images/duck.jpg)](pdfs/wgrover_thesis.pdf)
+[![](../images/duck.jpg)](http://wgrover.com/pdfs/wgrover_thesis.pdf)
 
 {{ page.title }}
 ----------------
 
-PhD Thesis, University of California, Berkeley, 2006.  [PDF](pdfs/wgrover_thesis.pdf)
+PhD Thesis, University of California, Berkeley, 2006.  [PDF](http://wgrover.com//pdfs/wgrover_thesis.pdf)
 
 Principles from microfabrication, computer science, and molecular biology are combined to develop microfluidic processors for computational and analytical applications. These microprocessors utilize monolithic membrane valves that are combined to form pumps, routers, and complex valve networks. The processors are fabricated by sandwiching a polydimethylsiloxane (PDMS) membrane between two etched glass wafers. A valve is formed where a channel discontinuity in one wafer lies across the PDMS membrane from an etched displacement chamber. Depressurizing the chamber pulls the membrane away from the discontinuous channel and opens the valve. Three independently-controlled valves in series form a diaphragm pump. The valves have < 10 nL dead volumes and seal against 75 kPa pressure; the pumps are self-priming and pump 1-100 nL/s. Valves are fabricated in dense arrays and actuated in parallel via integrated pneumatic channels. This technology has facilitated the development of lab-on-a-chip devices for pathogen detection, nanoliter-scale DNA sequencing, and extraterrestrial amino acid analysis.
 
