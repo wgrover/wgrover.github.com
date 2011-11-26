@@ -3,10 +3,10 @@ layout: post
 title: "[Animation of cell density measurement](http://github.com/wgrover/density-movie)"
 ---
 
+<div style="float:left;margin:0 10px 5px 0;"><object width="425" height="349"><param name="movie" value="http://www.youtube.com/v/P5M_C_P02DQ?version=3&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/P5M_C_P02DQ?version=3&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" width="425" height="349" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>
+
 {{ page.title }}
 ----------------
-
-<div style="float:left;margin:0 10px 5px 0;"><object width="425" height="349"><param name="movie" value="http://www.youtube.com/v/P5M_C_P02DQ?version=3&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/P5M_C_P02DQ?version=3&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" width="425" height="349" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>
 
 I created this animation to accompany [our *PNAS* paper about measuring the density of single cells](http://wgrover.com/research/2011/06/20/cell-density.html).  Several people have asked me how I made the animation, so here are the tools I used and the source code.
 
