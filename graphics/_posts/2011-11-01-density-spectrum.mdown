@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "[Density spectrum](http://github.com/wgrover/density-spectrum)"
+title: "[Density spectrum](http://wgrover.com/density)"
 ---
 
 [![](http://wgrover.com/images/density_spectrum.png)](http://wgrover.com/density)
@@ -8,6 +8,4 @@ title: "[Density spectrum](http://github.com/wgrover/density-spectrum)"
 {{ page.title }}
 ----------------
 
-Coming soon!  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+I created this interactive []"density spectrum viewer"]() using [Processing](http://processing.org), an  "open source programming language and environment for people who want to create images, animations, and interactions."  [The source code is available on Github](http://github.com/wgrover/density-spectrum).  One day I'd like to clean this up and turn it into a generic multi-scale viewer for large data sets.
