@@ -13,3 +13,5 @@ M. Godin, F. F. Delgado, S. Son, W. H. Grover, A. K. Bryan, A. Tzur, P. Jorgense
 We used a suspended microchannel resonator (SMR) combined with picoliter-scale microfluidic control to measure buoyant mass and determine the "instantaneous" growth rates of individual cells. The SMR measures mass with femtogram precision, allowing rapid determination of the growth rate in a fraction of a complete cell cycle. We found that for individual cells of *Bacillus subtilis*, *Escherichia coli*, *Saccharomyces cerevisiae* and mouse lymphoblasts, heavier cells grew faster than lighter cells.
 
 See also the [MIT News story "MIT measures rate at which single cells accumulate mass"](http://web.mit.edu/press/2010/cell-growth.html).
+
+This paper was also mentioned in the ["Mysteries of the Cell" series in *Science*](http://www.sciencemag.org/content/334/6059/1047.full).
