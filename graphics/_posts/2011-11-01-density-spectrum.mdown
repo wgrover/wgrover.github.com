@@ -8,5 +8,5 @@ title: "[Density spectrum](http://wgrover.com/density)"
 {{ page.title }}
 ----------------
 
-I created this interactive ["density spectrum viewer"](http://wgrover.com/density) using [Processing](http://processing.org), an  "open source programming language and environment for people who want to create images, animations, and interactions."  [The source code is available on Github](http://github.com/wgrover/density-spectrum).  One day I'd like to clean this up and turn it into a generic multi-scale viewer for large data sets.
+I created this interactive ["density spectrum viewer"](http://wgrover.com/density) using [Processing](http://processing.org), an  "open source programming language and environment for people who want to create images, animations, and interactions."  [The source code is available on Github](http://github.com/wgrover/density-spectrum).  One day I'd like to clean this up and turn it into a generic multi-scale viewer for any large data set.
 <br><br><br><br><br><br><br><br><br><br>
