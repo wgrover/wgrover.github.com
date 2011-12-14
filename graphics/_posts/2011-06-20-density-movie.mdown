@@ -11,5 +11,3 @@ title: "[Animation of cell density measurement](http://github.com/wgrover/densit
 I created this animation to accompany [our *PNAS* paper about measuring the density of single cells](http://wgrover.com/research/2011/06/20/cell-density.html).  Several people have asked me how I made the animation, so here are the tools I used and the source code.
 
 I made the animation using the free open source 3D modeling software [Blender](http://www.blender.org/).  If you can learn just one 3D modeling tool, learn Blender.  Blender's unusual UI takes some getting used to, but once you've created a model in Blender, you can do so much with it--export high-quality raytraced figures in vector graphics formats, render fancy animations, even make interactive "games" out of it.  It may be much easier to make your model in Google Sketchup, but the mess of upgrades, plugins, and third-party software required to get raytraced or animated output from a Sketchup model just isn't worth the effort.  Blender does all of this right out of the box, and for free.
-
-The Blender [source code for the animation](http://github.com/wgrover/density-movie) is available on Github.
