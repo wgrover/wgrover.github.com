@@ -1,140 +1,93 @@
-
-body {margin-top: 10%;
-margin-right: 10%;
-margin-bottom: 10%;
-margin-left: 10%;
-font-size:100%;
-/*background-color:rgb(240,240,240);*/
+#container
+{
+	margin: 0 auto;
+	width: 900px;
+	background: #fff;
 }
 
-p {
-	font-size:1.0em;
-/*  margin-right: 10%;*/
-/*    margin-left: 10%;*/
-    padding-bottom: 0px;
-    margin-bottom: 10px;
-/*    padding-top: 0px;*/
-/*    margin-top: 5px;*/
-/*	font-family: sans-serif;*/
-	font-family: 'Droid Sans', sans-serif;
-/*	font-family: 'Droid Serif', serif;*/
-/*	font-family: 'Chivo', sans-serif;*/
-/*	font-family: 'Quicksand', sans-serif;*/
-/*	font-family: 'Open Sans', sans-serif;*/
-/*	font-family: 'Terminal Dosis', sans-serif;*/
+#header
+{
+	background: #ccc;
+	padding: 20px;
 }
 
-h2 {  
-/*    USED FOR POST TITLES AND MENU BAR */
-font-size:1.5em;
-/*  margin-right: 10%;*/
-/*  margin-left: 10%;*/
-/*	font-family: sans-serif;*/
-	font-family: 'Droid Sans', sans-serif;
-/*	font-family: 'Droid Serif', serif;*/
-/*	font-family: 'Chivo', sans-serif;*/
-/*	font-family: 'Quicksand', sans-serif;*/
-/*	font-family: 'Open Sans', sans-serif;*/
-/*	font-family: 'Terminal Dosis', sans-serif;*/
-	margin-bottom: 0px;
-	margin-top: 0px;
+#header h1 { margin: 0; }
+
+#navigation
+{
+	float: left;
+	width: 900px;
+	background: #333;
 }
 
-h1 {
-/*	USED FOR MAIN TITLE*/
-	font-size:2.0em;
-	margin-bottom: 10px;
-	margin-top: 100px;
-/*  margin-right: 10%;*/
-/*  margin-left: 10%;*/
-/*	font-family: sans-serif;*/
-	font-family: 'Droid Sans', sans-serif;
-/*	font-family: 'Droid Serif', serif;*/
-/*	font-family: 'Chivo', sans-serif;*/
-/*	font-family: 'Quicksand', sans-serif;*/
-/*	font-family: 'Open Sans', sans-serif;*/
-/*	font-family: 'Terminal Dosis', sans-serif;*/
-/*	text-shadow: rgb(100,100,100) -1px 1px 5px;*/
+#navigation ul
+{
+	margin: 0;
+	padding: 0;
 }
 
-h3 {
-	font-style: normal;
-	font-weight: normal;
-/*  margin-right: 20px;*/
-/*  margin-left: 20px;*/
-/*	font-family: sans-serif;*/
-	font-family: 'Droid Sans', sans-serif;
-/*	font-family: 'Droid Serif', serif;*/
-/*	font-family: 'Chivo', sans-serif;*/
-/*	font-family: 'Quicksand', sans-serif;*/
-/*	font-family: 'Open Sans', sans-serif;*/
-/*	font-family: 'Terminal Dosis', sans-serif;*/
+#navigation ul li
+{
+	list-style-type: none;
+	display: inline;
+}
+
+#navigation li a
+{
+	display: block;
+	float: left;
+	padding: 5px 10px;
+	color: #fff;
+	text-decoration: none;
+	border-right: 1px solid #fff;
+}
+
+#navigation li a:hover { background: #383; }
+
+#content-container
+{
+	float: left;
+	width: 900px;
+	background: #fff url(/wp-content/uploads/layout-two-fixed-background.gif) repeat-y 100% 0;
+}
+
+#content
+{
+	clear: left;
+	float: left;
+	width: 560px;
+	padding: 20px 0;
+	margin: 0 0 0 30px;
+	display: inline;
+}
+
+#content h2 { margin: 0; }
+
+#aside
+{
 	float: right;
+	width: 240px;
+	padding: 20px 0;
+	margin: 0 20px 0 0;
+	display: inline;
+}
+
+#aside h3 { margin: 0; }
+
+#footer
+{
+	clear: both;
+	background: #ccc;
+	text-align: right;
+	padding: 20px;
+	height: 1%;
 }
 
 
-img { margin-left: 0px; 
-    margin-right: 15px;
-    margin-top: 0px;
-    margin-bottom: 5px;
-    float: left } 
 
-hr { border: 0; width: 100%; color: #000000; background-color: #000000; height: 5px; }
 
-h4 {
-/*  margin-right: 20px;*/
-/*  margin-left: 20px;*/
-/*	font-family: sans-serif;*/
-	font-family: 'Droid Sans', sans-serif;
-/*	font-family: 'Droid Serif', serif;*/
-/*	font-family: 'Chivo', sans-serif;*/
-/*	font-family: 'Quicksand', sans-serif;*/
-/*	font-family: 'Open Sans', sans-serif;*/
-/*	font-family: 'Terminal Dosis', sans-serif;*/
-}
 
-h5 {
-	margin-bottom: 0px;
-	margin-top: 30px;
-/*  margin-right: 20px;*/
-/*  margin-left: 20px;*/
-/*	font-family: sans-serif;*/
-	font-family: 'Droid Sans', sans-serif;
-/*	font-family: 'Droid Serif', serif;*/
-/*	font-family: 'Chivo', sans-serif;*/
-/*	font-family: 'Quicksand', sans-serif;*/
-/*	font-family: 'Open Sans', sans-serif;*/
-/*	font-family: 'Terminal Dosis', sans-serif;*/
-}
 
-a {
-  font-style: none;*/
-  text-transform: none;
-  text-decoration: none;
-  font-weight: bold;
-	color: #7f7f7f;
-/*	font-family: sans-serif;*/
-	font-family: 'Droid Sans', sans-serif;
-/*	font-family: 'Droid Serif', serif;*/
-/*	font-family: 'Chivo', sans-serif;*/
-/*	font-family: 'Quicksand', sans-serif;*/
-/*	font-family: 'Open Sans', sans-serif;*/
-/*	font-family: 'Terminal Dosis', sans-serif;*/
-}
 
-.post .signoff {
-  text-align: right;
-  /*  margin-right: 10%;*/
-  /*    margin-left: 10%;*/
-      padding-bottom: 0px;
-      margin-bottom: 10px;
-  /*    padding-top: 0px;*/
-  /*    margin-top: 5px;*/
-/*  	font-family: sans-serif;*/
-font-family: 'Droid Sans', sans-serif;
-/*font-family: 'Droid Serif', serif;*/
-/*font-family: 'Chivo', sans-serif;*/
-/*font-family: 'Quicksand', sans-serif;*/
-/*font-family: 'Open Sans', sans-serif;*/
-/*font-family: 'Terminal Dosis', sans-serif;*/
-}
+
+
