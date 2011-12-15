@@ -7,11 +7,9 @@ title: Books and Chapters
 {% for post in site.posts limit:50 %}
   {% if post.categories contains 'books-chapters' %}
   <div class="post">
-		<hr>
+
   {{ post.content }}
-  <!-- <p class="signoff">
-    &mdash;<a href="{{ post.url }}">{{ post.date | date: "%b %d, %Y" }}</a>
-  </p> -->
+
         <br><br>
   </div>
   {% endif %}

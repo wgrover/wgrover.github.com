@@ -2,12 +2,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
   <head>
 	<link href='http://fonts.googleapis.com/css?family=Droid+Sans:400,700' rel='stylesheet' type='text/css'>
-    <!-- <link href='http://fonts.googleapis.com/css?family=Droid+Serif:700,400,400italic,700italic' rel='stylesheet' type='text/css'> -->
-	<!-- <link href='http://fonts.googleapis.com/css?family=Chivo' rel='stylesheet' type='text/css'> -->
-	<!-- <link href='http://fonts.googleapis.com/css?family=Quicksand' rel='stylesheet' type='text/css'> -->
-	<!-- <link href='http://fonts.googleapis.com/css?family=Open+Sans:400italic,400' rel='stylesheet' type='text/css'> -->
-	<!-- <link href='http://fonts.googleapis.com/css?family=Terminal+Dosis' rel='stylesheet' type='text/css'> -->
-	<!-- <link href="screen.css" media="screen, projection" rel="stylesheet" type="text/css" /> -->
 	<link href="../../../../../../../../wgrover.css" rel="stylesheet" type="text/css" />
     <title>William H. Grover &mdash; {{ page.title }}</title>
     {% include analytics.html %}
@@ -17,23 +11,27 @@
 
   </head>
   <body>
+      <div id="wrapper">
+          <div id="header">
       <h1>William H. Grover</h1>
-    <p>
 	<h2>		
-		<a href="http://wgrover.com/">Research</a> |
-		<a href="http://wgrover.com/books-chapters">Books &amp; Chapters</a> |
-		<a href="http://wgrover.com/writing">Writing</a> |
-		<a href="http://wgrover.com/graphics">Graphics</a> |
-		<a href="http://wgrover.com/code">Code</a> |
-		<a href="http://wgrover.com/about">About</a>
+		<a href="http://wgrover.com/">Research</a> &nbsp&nbsp
+		<a href="http://wgrover.com/books-chapters">Books &amp; Chapters</a> &nbsp&nbsp
+		<a href="http://wgrover.com/writing">Writing</a> &nbsp&nbsp
+		<a href="http://wgrover.com/graphics">Graphics</a> &nbsp&nbsp
+		<a href="http://wgrover.com/code">Code</a> &nbsp&nbsp
+		<a href="http://wgrover.com/about">About</a> &nbsp&nbsp
 		</h2>
-	</p>
-	<br>
-	<br>
+		</div>
+<div id="leftcolumn">
       {{ content }}
-    <p>
-	<br>
-	<br>
+</div>
+<div id="rightcolumn">
+    <h2>News</h2>
+    <br>
+    {% include news.html %}
+    </div>
+    <div id="footer">
 	<h2>
 		<a href="http://wgrover.com/">Research</a> |
 		<a href="http://wgrover.com/books-chapters">Books &amp; Chapters</a> |
@@ -42,6 +40,7 @@
 		<a href="http://wgrover.com/code">Code</a> |
 		<a href="http://wgrover.com/about">About</a>
 		</h2>
-	</p>
+	</div>
+	</div>
   </body>
 </html>
