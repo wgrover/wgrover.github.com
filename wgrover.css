@@ -2,125 +2,129 @@
 * { padding: 0; margin: 0}
 
 body {
-font-family: 'Droid Sans', sans-serif;	
-font-size:  1.0em;
+    font-family: 'Droid Sans', sans-serif;	
+    font-size:  1.0em;
 }
 
 #wrapper {
- margin: 0 auto;
- width: 922px;
+    margin: 0 auto;
+    width: 922px;
 
 }
 #header {
-/* color: #333;*/
- width: 900px;
- float: left;
- padding-bottom: 20px;
- border-bottom: 1px solid #000000;
-/* height: 100px;*/
- margin: 0px 0px 0px 0px;
- background: #FFFFFF;
+    /* color: #333;*/
+    width: 900px;
+    float: left;
+    padding-bottom: 20px;
+    border-bottom: 1px solid #000000;
+    /* height: 100px;*/
+    margin: 0px 0px 0px 0px;
+    background: #FFFFFF;
 }
 #leftcolumn { 
- color: #333;
-/* border: 1px solid #ccc;*/
- background: #FFFFFF;
- margin: 0px 0px 0px 0px;
- padding-top: 10px;
-/* height: 350px;*/
- width: 700px;
- float: left;
+    color: #333;
+    /* border: 1px solid #ccc;*/
+    background: #FFFFFF;
+    margin: 0px 0px 0px 0px;
+    padding-top: 10px;
+    /* height: 350px;*/
+    width: 700px;
+    float: left;
 }
 #rightcolumn { 
- float: right;
- color: #333;
- border-left: 1px solid #000000;
- background: #FFFFFF;
- margin: 0px 0px 0px 0px;
- padding-top: 10px;
- padding-left: 10px;
-/* height: 350px;*/
- width: 200px;
- display: inline;
+    float: right;
+    color: #333;
+    border-left: 1px solid #000000;
+    background: #FFFFFF;
+    margin: 0px 0px 0px 0px;
+    padding-top: 10px;
+    padding-left: 10px;
+    /* height: 350px;*/
+    width: 200px;
+    display: inline;
 }
 #footer { 
- width: 900px;
- clear: both;
- color: #333;
-/* border: 1px solid #ccc;*/
- background: #FFFFFF;
- margin: 0px 0px 10px 0px;
- padding: 10px;
+    width: 900px;
+    clear: both;
+    color: #333;
+    /* border: 1px solid #ccc;*/
+    background: #FFFFFF;
+    margin: 0px 0px 10px 0px;
+    padding: 10px;
 }
 
 
 
 p {
-	font-size:1.0em;
+    font-size:1.0em;
     padding-bottom: 0px;
     margin-top: 10px;
-	font-family: 'Droid Sans', sans-serif;
+    font-family: 'Droid Sans', sans-serif;
 }
 
 h1 {
-/*	USED FOR MAIN TITLE*/
-	font-size:2.0em;
-	margin-bottom: 10px;
-	margin-top: 50px;
-	font-family: 'Droid Sans', sans-serif;
+    /*	USED FOR MAIN TITLE*/
+    font-size:2.0em;
+    margin-bottom: 10px;
+    margin-top: 50px;
+    font-family: 'Droid Sans', sans-serif;
 }
 
 h2 {  
-/*    USED FOR POST TITLES AND MENU BAR */
-font-size:1.5em;
-	font-family: 'Droid Sans', sans-serif;
-/*	margin-bottom: 0px;
-	margin-top: 0px;*/
+    /*    USED FOR POST TITLES AND MENU BAR */
+    font-size:1.5em;
+    font-family: 'Droid Sans', sans-serif;
 }
 
 h3 {
-	font-style: normal;
-	font-weight: normal;
-	font-family: 'Droid Sans', sans-serif;
-	float: right;
+    font-style: normal;
+    font-weight: normal;
+    font-family: 'Droid Sans', sans-serif;
+    float: right;
 }
 
 
 img { margin-left: 0px; 
-    margin-right: 15px;
-    margin-top: 0px;
-    margin-bottom: 5px;
-    float: left } 
+      margin-right: 15px;
+      margin-top: 0px;
+      margin-bottom: 5px;
+      float: left } 
 
-hr { border: 0; width: 100%; color: #000000; background-color: #000000; height: 1px; }
+hr {
+    border: 0;
+    width: 100%;
+    color: #000000;
+    background-color: #000000;
+    height: 1px;
+}
 
 h4 {
-	font-family: 'Droid Sans', sans-serif;
+    font-family: 'Droid Sans', sans-serif;
 }
 
 h5 {
-	margin-bottom: 0px;
-	margin-top: 30px;
-	font-family: 'Droid Sans', sans-serif;
+    margin-bottom: 0px;
+    margin-top: 30px;
+    font-family: 'Droid Sans', sans-serif;
 }
 
 a {
-  font-style: none;*/
-  text-transform: none;
-  text-decoration: none;
-  font-weight: bold;
-	color: #AAAAAA;
-	font-family: 'Droid Sans', sans-serif;
+    font-style: none;*/
+    text-transform: none;
+    text-decoration: none;
+    font-weight: bold;
+    color: #AAAAAA;
+    font-family: 'Droid Sans', sans-serif;
 }
 
 a:hover {
-	color: #0000FF;
-	text-decoration: underline;
+    color: #0000FF;
+    text-decoration: underline;
 }
 
 .post .signoff {
-  text-align: right;
-      padding-bottom: 0px;
-      margin-bottom: 10px;
-font-family: 'Droid Sans', sans-serif;
+    text-align: right;
+    padding-bottom: 0px;
+    margin-bottom: 10px;
+    font-family: 'Droid Sans', sans-serif;
 }
