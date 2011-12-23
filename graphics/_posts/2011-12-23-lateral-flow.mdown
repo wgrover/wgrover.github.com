@@ -1,0 +1,11 @@
+---
+layout: post
+title: "[Lateral flow microfluidics from paper](http://wgrover.com/density)"
+---
+
+![](http://wgrover.com/images/lateral_flow.gif)
+
+{{ page.title }}
+----------------
+
+A time-lapse animated GIF of a lateral flow microfluidic "device" cut out of paper.
