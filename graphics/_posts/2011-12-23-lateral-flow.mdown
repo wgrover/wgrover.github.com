@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Lateral flow microfluidics from paper"
+title: "[Lateral flow microfluidics from paper](http://wgrover.com/images/lateral_flow_full.gif)"
 ---
 
-![](http://wgrover.com/images/lateral_flow.gif)
+[![](http://wgrover.com/images/lateral_flow.gif)](http://wgrover.com/images/lateral_flow_full.gif)
 
 {{ page.title }}
 ----------------
 
-A time-lapse animated GIF of a lateral flow microfluidic "device" cut out of paper.
+A time-lapse animated GIF of a lateral flow microfluidic "device" cut out of paper.  Also check out the [full size version](http://wgrover.com/images/lateral_flow_full.gif).
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
