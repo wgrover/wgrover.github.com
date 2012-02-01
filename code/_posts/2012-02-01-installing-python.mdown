@@ -8,34 +8,32 @@ title: "Installing Python for scientists and engineers"
 {{ page.title }}
 ----------------
 
-(this is a post in progress)
+Install XCode from App Store:
 
-Install XCode from App Store:  http://itunes.apple.com/us/app/xcode/id448457090?mt=12
+	[Download XCode from the App Store](http://itunes.apple.com/us/app/xcode/id448457090?mt=12)
 
-Install homebrew:  /usr/bin/ruby -e "$(curl -fsSL https://raw.github.com/gist/323731)"
+Open Terminal.app and run the following:
 
-brew update
+    /usr/bin/ruby -e "$(curl -fsSL https://raw.github.com/gist/323731)"
+    brew update
+    brew install python
+    touch ~/.bash_profile
+    open ~/.bash_profile
 
-brew install python
+Add the following line to the top of the file and save it:
 
-add to .bash_profile:
-export PATH=/usr/local/share/python:/usr/local/bin:$PATH
+	PATH=/usr/local/share/python:/usr/local/bin:$PATH
 
-source .bash_profile
+In the Terminal, run:
 
-easy_install pip
-
-brew install pkg_config
-
-brew install gfortran
-
-pip install numpy
-
-pip install scipy
-
-pip install -e git+https://github.com/matplotlib/matplotlib.git#egg=matplotlib
-
-pip install ipython
+    source .bash_profile
+	easy_install pip
+	brew install pkg_config
+	brew install gfortran
+	pip install numpy
+	pip install scipy
+	pip install -e git+https://github.com/matplotlib/matplotlib.git#egg=matplotlib
+	pip install ipython
 
 
 
