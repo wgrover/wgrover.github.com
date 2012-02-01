@@ -13,9 +13,13 @@ title: "Installing Python for scientists and engineers"
 1.  Open Terminal.app and run the following on the command line:
 
 `/usr/bin/ruby -e "$(curl -fsSL https://raw.github.com/gist/323731)"`    *(installs Homebrew)*
+
 `brew update`  *(updates Homebrew)*
+
 `brew install python`  *(installs Python)*
+
 `touch ~/.bash_profile`  *(creates a .bash_profile file in your home directory if it doesn't already exist)*
+
 `open ~/.bash_profile`  *(opens .bash_profile in TextEdit)*
 
 1.  Add the following line to the top of the file and save it:
