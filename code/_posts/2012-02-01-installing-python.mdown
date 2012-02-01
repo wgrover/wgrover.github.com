@@ -8,15 +8,15 @@ title: "Installing Python for scientists and engineers"
 {{ page.title }}
 ----------------
 
-[Install XCode from the App Store](http://itunes.apple.com/us/app/xcode/id448457090?mt=12)
+1.  [Install XCode from the App Store](http://itunes.apple.com/us/app/xcode/id448457090?mt=12)
 
 1.  Open Terminal.app and run the following:
 
-    /usr/bin/ruby -e "$(curl -fsSL https://raw.github.com/gist/323731)"    (installs Homebrew)
-    brew update
-    brew install python
-    touch ~/.bash_profile
-    open ~/.bash_profile
+`/usr/bin/ruby -e "$(curl -fsSL https://raw.github.com/gist/323731)"`    (installs Homebrew)
+brew update
+brew install python
+touch ~/.bash_profile
+open ~/.bash_profile
 
 Add the following line to the top of the file and save it:
 
