@@ -14,7 +14,7 @@ I'm a big proponent of Python for data analysis.
 
 1.  Open Terminal.app and run the following on the command line:
 
-<table border=1>
+<table border="1">
     <tr>
         <td><code>/usr/bin/ruby -e "$(curl -fsSL https://raw.github.com/gist/323731)"</code></td>
 		<td>Installs Homebrew</td>
@@ -43,7 +43,7 @@ I'm a big proponent of Python for data analysis.
 
 1.  Back in Terminal.app, run the following on the command line:
 
-<table border=1>
+<table border="1">
 	<tr>
 		<td><code>source .bash_profile</code></td>
 		<td>Updates the PATH variable in the current shell</td>
