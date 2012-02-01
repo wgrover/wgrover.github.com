@@ -16,14 +16,16 @@ I'm a big proponent of Python for data analysis.
 
 <table>
     <tr>
-        <td>`/usr/bin/ruby -e "$(curl -fsSL https://raw.github.com/gist/323731)"`</td>
+        <td><code>/usr/bin/ruby -e "$(curl -fsSL https://raw.github.com/gist/323731)"</code></td>
 		<td>Installs Homebrew</td>
     </tr>
+    <tr>
+	    <td><code>brew update</code></td>
+		<td>Updates Homebrew</td>
+	</tr>
 </table>
 
-`/usr/bin/ruby -e "$(curl -fsSL https://raw.github.com/gist/323731)"`    *(installs Homebrew)*
 
-`brew update`  *(updates Homebrew)*
 
 `brew install python`  *(installs Python)*
 
