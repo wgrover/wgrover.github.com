@@ -17,21 +17,25 @@ I'm a big proponent of Python for data analysis.
 <table>
     <tr>
         <td><code>/usr/bin/ruby -e "$(curl -fsSL https://raw.github.com/gist/323731)"</code></td>
-		<td>Installs Homebrew</td>
+		<td>(installs Homebrew)</td>
     </tr>
     <tr>
 	    <td><code>brew update</code></td>
-		<td>Updates Homebrew</td>
+		<td>(updates Homebrew)</td>
+	</tr>
+	<tr>
+		<td><code>brew install python</code></td>
+		<td>(installs Python)</td>
+	</tr>
+	<tr>
+		<td><code>touch ~/.bash_profile</code></td>
+		<td>(creates a .bash_profile file in your home directory if it doesn't already exist)</td>
+	</tr>
+	<tr>
+		<td><code>open ~/.bash_profile</code></td>
+		<td>opens .bash_profile in TextEdit</td>
 	</tr>
 </table>
-
-
-
-`brew install python`  *(installs Python)*
-
-`touch ~/.bash_profile`  *(creates a .bash_profile file in your home directory if it doesn't already exist)*
-
-`open ~/.bash_profile`  *(opens .bash_profile in TextEdit)*
 
 1.  Add the following line to the top of the file and save it:
 
