@@ -3,7 +3,7 @@ layout: post
 title: "Installing Python for scientists and engineers"
 ---
 
-[![](../images/ocw.png)](http://github.com/wgrover/ocw)
+![](../images/python.png)
 
 {{ page.title }}
 ----------------
