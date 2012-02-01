@@ -8,16 +8,16 @@ title: "Installing Python for scientists and engineers"
 {{ page.title }}
 ----------------
 
-I'm a big proponent of Python for data analysis.  When combined with the numpy, scipy, and Matplotlib packages, Python becomes a free data analysis tool that gives commercial software like MATLAB a run for its money.  But getting Python and the associated packages installed and playing well together can be a chore, at least on Macs and Windows boxes.  You can download binary installers for each package, but then there's no easy way to keep your packages updated.  Or you can use a commercial Python distribution like the one sold by [Enthought](http://enthought.com/products/epd.php), but it's frustrating to buy access to what is ultimately free software.  Finally, you can build your Python tools from the source.  Building from the source has advantages---it's free and much easier to keep up-to-date---but the process has several steps, each of which can fail in unexpected ways.
+I'm a big proponent of [Python](http://python.org/) for data analysis.  When combined with the [NumPy](http://numpy.scipy.org/), [SciPy](http://www.scipy.org/), and [matplotlib](http://matplotlib.sourceforge.net/) packages, Python becomes a free data analysis tool that gives commercial software like MATLAB a run for its money.  But getting Python and the associated packages installed and playing well together can be a chore, at least on Macs and Windows boxes.  You can download binary installers for each package, but then there's no easy way to keep your packages updated.  Or you can use a commercial Python distribution like the one sold by [Enthought](http://enthought.com/products/epd.php), but it's frustrating to buy access to what is ultimately free software.  Finally, you can build your Python tools from the source.  Building from the source has advantages---it's free and much easier to keep up-to-date---but the process has several steps, each of which can fail in unexpected ways.  None of these setup options is ideal, and scientists and engineers who are interested in using Python for data analysis may get frustrated and turn to commercial software like MATLAB instead.
 
-I've posted here my notes on installing Python, numpy, scipy, and Matplotlib from the source on a Mac running OS X 10.7 (Lion).  I've tried to make this as cookbook as possible---just copy and paste the necessary lines into the Terminal and in the end you should have a fully-functional Python-based replacement for MATLAB.  These instructions will undoubtedly break over time, but I'll try to keep these notes updated.  If you encounter any problems, drop me a line at wgrover AT mit DOT edu.
+I've posted here my notes on installing Python, NumPy, SciPy, and matplotlib from the source on a Mac running OS X 10.7 (Lion).  I've tried to make this as cookbook as possible---just copy and paste the necessary lines into the Terminal and in the end you should have a fully-functional Python-based replacement for MATLAB.  My favored approach uses Homebrew to install Python and pip to install Python packages.  These instructions will undoubtedly break over time, but I'll try to keep these notes updated.  If you encounter any problems, drop me a line at wgrover AT mit DOT edu.
 
-1.  [Install XCode from the App Store](http://itunes.apple.com/us/app/xcode/id448457090?mt=12)
-1.  Open Terminal.app and run the following commands (note that each command is a single line, even if they appear wrapped to two lines in this table.  Just copy-and-paste these into the Terminal and they should work as is.)
+1.  [Install Xcode from the App Store](http://itunes.apple.com/us/app/xcode/id448457090?mt=12).  Xcode provides the necessary compilers for building software from the source on your Mac.
+1.  Open Terminal.app (you can run it by typing <code>terminal</code> in Spotlight and hitting RETURN) and run each of the following commands (note that each command is a single line, even if they appear wrapped to two lines in this table.  Just copy-and-paste each row's contents into the Terminal and they should work.)
 <table border="1">
     <tr>
         <td><code>/usr/bin/ruby -e "$(curl -fsSL https://raw.github.com/gist/323731)"</code></td>
-		<td>Installs Homebrew</td>
+		<td>Installs <a href="http://mxcl.github.com/homebrew/">Homebrew</a></td>
     </tr>
     <tr>
 	    <td><code>brew update</code></td>
@@ -25,11 +25,11 @@ I've posted here my notes on installing Python, numpy, scipy, and Matplotlib fro
 	</tr>
 	<tr>
 		<td><code>brew install python</code></td>
-		<td>Installs Python</td>
+		<td>Installs <a href="http://python.org/">Python</a></td>
 	</tr>
 	<tr>
 		<td><code>touch ~/.bash_profile</code></td>
-		<td>Creates a .bash_profile file in your home directory if it doesn't already exist</td>
+		<td>Creates a <a href="http://www.linuxfromscratch.org/blfs/view/6.3/postlfs/profile.html">.bash_profile file</a> in your home directory if it doesn't already exist</td>
 	</tr>
 	<tr>
 		<td><code>open ~/.bash_profile</code></td>
@@ -37,56 +37,44 @@ I've posted here my notes on installing Python, numpy, scipy, and Matplotlib fro
 	</tr>
 </table>
 1.  Add the following line to the top of the file and save it:
-<code>PATH=/usr/local/share/python:/usr/local/bin:$PATH</code>
+<table border="1">
+	<tr>
+		<td><code>PATH=/usr/local/share/python:/usr/local/bin:$PATH</code></td>
+	</tr>
+</table>
 1.  Back in Terminal.app, run the following on the command line:
 <table border="1">
 	<tr>
 		<td><code>source .bash_profile</code></td>
-		<td>Updates the PATH variable in the current shell</td>
+		<td>Updates the <a href="http://en.wikipedia.org/wiki/PATH_(variable)">PATH variable</a> in the current shell</td>
 	</tr>
 	<tr>
 		<td><code>easy_install pip</code></td>
-		<td>Installs the pip Python package installer.</td>
+		<td>Installs the <a href="http://pypi.python.org/pypi/pip">pip</a> Python package installer.</td>
 	</tr>
 	<tr>
 		<td><code>brew install pkg_config</code></td>
-		<td>Installs something supposedly needed by Matplotlib</td>
+		<td>Installs something supposedly needed by matplotlib</td>
 	</tr>
 	<tr>
 		<td><code>brew install gfortran</code></td>
-		<td>Installs something needed by scipy</td>
+		<td>Installs something needed by SciPy</td>
 	</tr>
 	<tr>
 		<td><code>pip install numpy</code></td>
-		<td>Installs numpy.</td>
+		<td>Installs <a href="http://numpy.scipy.org/">NumPy</a>.</td>
 	</tr>
 	<tr>
 		<td><code>pip install scipy</code></td>
-		<td>Installs scipy.</td>
+		<td>Installs <a href="http://www.scipy.org/">SciPy</a>.</td>
 	</tr>
 	<tr>
 		<td><code>pip install -e git+https://github.com/matplotlib/matplotlib.git#egg=matplotlib</code></td>
-		<td>Installs Matplotlib.  Note that we should have been able to just use <code>pip install matplotlib</code> to do this, but as of right now something's broken somewhere and we have to specify the Matplotlib git repository as shown.</td>
+		<td>Installs <a href="http://matplotlib.sourceforge.net/">matplotlib</a>.  Note that we should have been able to just use <code>pip install matplotlib</code> to do this, but as of right now something's broken somewhere and we have to specify the Matplotlib git repository as shown.</td>
 	</tr>
 	<tr>
 		<td><code>pip install ipython</code></td>
-		<td>Installs ipython, a handy command line for Python.</td>
+		<td>Installs <a href="http://ipython.org/">ipython</a>, a handy command line environment for Python.</td>
 	</tr>
 </table>
 
-
-    
-	
-	
-	
-	
-
-	
-	
-
-
-
-keep updated with:
-
-brew update
-brew upgrade
