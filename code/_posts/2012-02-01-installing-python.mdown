@@ -8,9 +8,7 @@ title: "Installing Python for scientists and engineers"
 {{ page.title }}
 ----------------
 
-Install XCode from App Store:
-
-	[Download XCode from the App Store](http://itunes.apple.com/us/app/xcode/id448457090?mt=12)
+[Install XCode from the App Store](http://itunes.apple.com/us/app/xcode/id448457090?mt=12)
 
 Open Terminal.app and run the following:
 
