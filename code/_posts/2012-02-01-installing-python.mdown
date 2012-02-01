@@ -14,43 +14,79 @@ I'm a big proponent of Python for data analysis.
 
 1.  Open Terminal.app and run the following on the command line:
 
-<table>
+<table border=1>
     <tr>
         <td><code>/usr/bin/ruby -e "$(curl -fsSL https://raw.github.com/gist/323731)"</code></td>
-		<td>(installs Homebrew)</td>
+		<td>Installs Homebrew</td>
     </tr>
     <tr>
 	    <td><code>brew update</code></td>
-		<td>(updates Homebrew)</td>
+		<td>Updates Homebrew</td>
 	</tr>
 	<tr>
 		<td><code>brew install python</code></td>
-		<td>(installs Python)</td>
+		<td>Installs Python</td>
 	</tr>
 	<tr>
 		<td><code>touch ~/.bash_profile</code></td>
-		<td>(creates a .bash_profile file in your home directory if it doesn't already exist)</td>
+		<td>Creates a .bash_profile file in your home directory if it doesn't already exist</td>
 	</tr>
 	<tr>
 		<td><code>open ~/.bash_profile</code></td>
-		<td>opens .bash_profile in TextEdit</td>
+		<td>Opens .bash_profile in TextEdit</td>
 	</tr>
 </table>
 
 1.  Add the following line to the top of the file and save it:
 
-`PATH=/usr/local/share/python:/usr/local/bin:$PATH`
+<code>PATH=/usr/local/share/python:/usr/local/bin:$PATH</code>
 
-In the Terminal, run:
+1.  Back in Terminal.app, run the following on the command line:
 
-    source .bash_profile
-	easy_install pip
-	brew install pkg_config
-	brew install gfortran
-	pip install numpy
-	pip install scipy
-	pip install -e git+https://github.com/matplotlib/matplotlib.git#egg=matplotlib
-	pip install ipython
+<table border=1>
+	<tr>
+		<td><code>source .bash_profile</code></td>
+		<td>Updates the PATH variable in the current shell</td>
+	</tr>
+	<tr>
+		<td><code>easy_install pip</code></td>
+		<td>Installs the pip Python package installer.</td>
+	</tr>
+	<tr>
+		<td><code>brew install pkg_config</code></td>
+		<td>Installs something supposedly needed by Matplotlib</td>
+	</tr>
+	<tr>
+		<td><code>brew install gfortran</code></td>
+		<td>Installs something needed by scipy</td>
+	</tr>
+	<tr>
+		<td><code>pip install numpy</code></td>
+		<td>Installs numpy.</td>
+	</tr>
+	<tr>
+		<td><code>pip install scipy</code></td>
+		<td>Installs scipy.</td>
+	</tr>
+	<tr>
+		<td><code>pip install -e git+https://github.com/matplotlib/matplotlib.git#egg=matplotlib</code></td>
+		<td>Installs Matplotlib.  Note that we should have been able to just use <code>pip install matplotlib</code> to do this, but as of right now something's broken somewhere and we have to specify the Matplotlib git repository as shown.</td>
+	</tr>
+	<tr>
+		<td><code>pip install ipython</code></td>
+		<td>Installs ipython, a handy command line for Python.</td>
+	</tr>
+</table>
+
+
+    
+	
+	
+	
+	
+
+	
+	
 
 
 
