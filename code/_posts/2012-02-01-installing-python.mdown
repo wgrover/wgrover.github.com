@@ -1,0 +1,45 @@
+---
+layout: post
+title: "Installing Python for scientists and engineers"
+---
+
+[![](../images/ocw.png)](http://github.com/wgrover/ocw)
+
+{{ page.title }}
+----------------
+
+(this is a post in progress)
+
+Install XCode from App Store:  http://itunes.apple.com/us/app/xcode/id448457090?mt=12
+
+Install homebrew:  /usr/bin/ruby -e "$(curl -fsSL https://raw.github.com/gist/323731)"
+
+brew update
+
+brew install python
+
+add to .bash_profile:
+export PATH=/usr/local/share/python:/usr/local/bin:$PATH
+
+source .bash_profile
+
+easy_install pip
+
+brew install pkg_config
+
+brew install gfortran
+
+pip install numpy
+
+pip install scipy
+
+pip install -e git+https://github.com/matplotlib/matplotlib.git#egg=matplotlib
+
+pip install ipython
+
+-----
+
+keep updated with:
+
+brew update
+brew upgrade
