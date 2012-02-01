@@ -3,7 +3,7 @@ layout: post
 title: "Installing Python for scientists and engineers"
 ---
 
-![](../../../images/python.png)
+![](../../../../../../images/python.png)
 
 {{ page.title }}
 ----------------
