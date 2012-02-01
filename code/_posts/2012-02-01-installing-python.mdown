@@ -11,8 +11,9 @@ title: "Installing Python for scientists and engineers"
 I'm a big proponent of [Python](http://python.org/) for data analysis.  When combined with the [NumPy](http://numpy.scipy.org/), [SciPy](http://www.scipy.org/), and [matplotlib](http://matplotlib.sourceforge.net/) packages, Python becomes a free data analysis tool that gives commercial software like MATLAB a run for its money.  But getting Python and the associated packages installed and playing well together can be a chore, at least on Macs and Windows boxes.  You can download binary installers for each package, but then there's no easy way to keep your packages updated.  Or you can use a commercial Python distribution like the one sold by [Enthought](http://enthought.com/products/epd.php), but it's frustrating to buy access to what is ultimately free software.  Finally, you can build your Python tools from the source.  Building from the source has advantages---it's free and much easier to keep up-to-date---but the process has several steps, each of which can fail in unexpected ways.  None of these setup options is ideal, and scientists and engineers who are interested in using Python for data analysis may get frustrated and turn to commercial software like MATLAB instead.
 
 I've posted here my notes on installing Python, NumPy, SciPy, and matplotlib from the source on a Mac running OS X 10.7 (Lion).  I've tried to make this as cookbook as possible---just copy and paste the necessary lines into the Terminal and in the end you should have a fully-functional Python-based replacement for MATLAB.  My favored approach uses Homebrew to install Python and pip to install Python packages.  These instructions will undoubtedly break over time, but I'll try to keep these notes updated.  If you encounter any problems, drop me a line at wgrover AT mit DOT edu.
+<br>
 
-1.  [Install Xcode from the App Store](http://itunes.apple.com/us/app/xcode/id448457090?mt=12).  Xcode provides the necessary compilers for building software from the source on your Mac.
+1.  [Install Xcode from the App Store](http://itunes.apple.com/us/app/xcode/id448457090?mt=12).  Xcode provides the necessary compilers for building software from the source on your Mac.<br>
 1.  Open Terminal.app (you can run it by typing <code>terminal</code> in Spotlight and hitting RETURN) and run each of the following commands (note that each command is a single line, even if they appear wrapped to two lines in this table.  Just copy-and-paste each row's contents into the Terminal and they should work.)
 <table border="1">
     <tr>
@@ -35,13 +36,9 @@ I've posted here my notes on installing Python, NumPy, SciPy, and matplotlib fro
 		<td><code>open ~/.bash_profile</code></td>
 		<td>Opens .bash_profile in TextEdit</td>
 	</tr>
-</table>
+</table><br>
 1.  Add the following line to the top of the file and save it:
-<table border="1">
-	<tr>
-		<td><code>PATH=/usr/local/share/python:/usr/local/bin:$PATH</code></td>
-	</tr>
-</table>
+<code>PATH=/usr/local/share/python:/usr/local/bin:$PATH</code><br>
 1.  Back in Terminal.app, run the following on the command line:
 <table border="1">
 	<tr>
@@ -76,7 +73,7 @@ I've posted here my notes on installing Python, NumPy, SciPy, and matplotlib fro
 		<td><code>pip install ipython</code></td>
 		<td>Installs <a href="http://ipython.org/">ipython</a>, a handy command line environment for Python.</td>
 	</tr>
-</table>
+</table></br>
 
 You should now have a complete and fully-functional Python/NumPy/SciPy/matplotlib toolchain.
 
