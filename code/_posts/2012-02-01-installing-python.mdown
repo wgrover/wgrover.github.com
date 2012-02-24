@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Installing Python for scientists and engineers"
+title: "Setting up Python for data analysis"
 ---
 
 ![](../../../../../../images/python.png)
