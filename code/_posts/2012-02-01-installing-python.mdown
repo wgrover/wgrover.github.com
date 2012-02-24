@@ -12,6 +12,8 @@ I'm a big proponent of [Python](http://python.org/) for data analysis.  When com
 
 I've posted here my notes on installing Python, NumPy, SciPy, and matplotlib from the source on a Mac running OS X 10.7 (Lion).  I've tried to make this as cookbook as possible---just copy and paste the necessary lines into the Terminal and in the end you should have a fully-functional Python-based replacement for MATLAB.  My favored approach uses [Homebrew](http://mxcl.github.com/homebrew/) to install Python and [pip](http://pypi.python.org/pypi/pip) to install Python packages.  These instructions will undoubtedly break eventually, but I'll try my best to keep them updated.  If you encounter any problems, drop me a line at wgrover AT mit DOT edu.
 
+<!-- more start -->
+
 1.  [Install Xcode from the App Store](http://itunes.apple.com/us/app/xcode/id448457090?mt=12).  Note that the App Store just downloads an installer to your Mac's Applications folder; you then have to run that installer to actually get Xcode.  Xcode provides the necessary compilers for building software from the source on your Mac.
 
 1.  Open Terminal.app (you can run it by typing <code>terminal</code> in Spotlight and hitting RETURN) and run each of the following commands (note that each command is a single line, even if they appear wrapped to two lines in this table.  Just copy-and-paste each row's contents into the Terminal and they should work.)
@@ -92,3 +94,5 @@ You should now have a complete and fully-functional Python/NumPy/SciPy/matplotli
 	pylab.show()
 
 I've gleaned these instructions from various websites, including [daskrachen.com](http://www.daskrachen.com/2011/02/installing-pythonnumpyscipymatplotlib.html) and [stackoverflow.com](http://stackoverflow.com/questions/6936884/how-to-install-matplotlib-on-mac-10-7-in-virtualenv).
+
+<!-- more end -->

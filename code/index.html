@@ -8,7 +8,9 @@ title: Code
   {% if post.categories contains 'code' %}
   <div class="post">
 
-  {{ post.content }}
+  {{ post.content | replace:'more start -->','' | replace:'<!-- more end','' }}
+
+p><a href="{{ post.url }}">Read on...</a></p> 
 
 <br><br>
   </div>
