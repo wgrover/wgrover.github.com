@@ -16,6 +16,8 @@ My friend and former labmate [Marcio von Muhlen](http://marciovm.com/) recently 
 
 I've been thinking about a backwards approach to Marcio's argument:  instead of adding aspects of Github to science publishing, what would happen if we added aspects of the current science publishing system to Github?  *How horribly broken would Github become if we recast it in the image of Reed-Elsevier, Springer, John Wiley and Sons, and the rest of the for-profit scientific publishing companies?*
 
+<!-- more start -->
+
 First, we would need to put some locks on the doors.  Access to our new Github is only available to subscribers, and it isn't cheap.  If your school or employer doesn't pay for access, you're probably out of luck.  If you're an unemployed coder using Github to learn a trendy new programming language, or a hobbyist coder interested in contributing to a project on Github, you're not welcome anymore.
 
 Actually, it's a little more complicated than that.  There's one subscription for *Github Ruby*, another subscription for *Github Python*, another subscription for *Github Java*, and so on.  If you have a *Github C* subscription but you'd like to browse *Github C++*, get your credit card out.
@@ -49,3 +51,5 @@ Finally, what if you want to contribute to code already on Github?  On our new G
 Anyone interested in submitting their code to this bizarro-world version of Github?  I really doubt it.  Coders have rightly grown accustomed to the efficient collaboration, distributed code reviewing, centralized record of a coder's accomplishments, and other features that tools like Github provide.  But the bizarro-world Github I described is the real world in which biologists, chemists, and other scientists share their research and build their reputations.
 
 Peer review is undeniably important, and our reverence for it is a big reason why we are still using a centuries-old paradigm for publishing our research.  But Github processes vastly more content than conventional journals do, without editors or conventional peer review, and yet the best code (and the best coders) still manage to receive the exposure they deserve on Github.  Fellow scientists, could we do the same?
+
+<!-- more end -->
