@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "[NaCl](http://github.com/wgrover/NaCl)"
+title: "NaCl"
 ---
 
-[![](../images/NaCl.png)](http://github.com/wgrover/NaCl)
+[![](http://wgrover.com/images/NaCl.png)](http://github.com/wgrover/NaCl)
 
 {{ page.title }}
 ----------------

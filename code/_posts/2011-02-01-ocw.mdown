@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "[ocw](http://github.com/wgrover/ocw)"
+title: "ocw"
 ---
 
-[![](../images/ocw.png)](http://github.com/wgrover/ocw)
+[![](http://wgrover.com/images/ocw.png)](http://github.com/wgrover/ocw)
 
 {{ page.title }}
 ----------------

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "[modrilla](http://github.com/wgrover/modrilla)"
+title: "modrilla"
 ---
 
-[![](../images/modrilla.png)](http://github.com/wgrover/modrilla)
+[![](http://wgrover.com/images/modrilla.png)](http://github.com/wgrover/modrilla)
 
 {{ page.title }}
 ----------------
