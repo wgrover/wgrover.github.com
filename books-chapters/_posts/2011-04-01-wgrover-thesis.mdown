@@ -3,7 +3,7 @@ layout: post
 title: "Microfluidic Molecular Processors for Computation and Analysis"
 ---
 
-[![](../images/duck.jpg)](http://wgrover.com/pdfs/wgrover_thesis.pdf)
+[![](http://wgrover.com/images/duck.jpg)](http://wgrover.com/pdfs/wgrover_thesis.pdf)
 
 {{ page.title }}
 ----------------

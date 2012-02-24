@@ -7,7 +7,7 @@ title: "Science for Github"
 <a name="science_for_github"> </a>
 <!-- KEEP THIS TO AVOID BREAKING OLD REFERENCES TO THIS POST -->
 
-![](../images/octocat_professor.png)
+![](http://wgrover.com//images/octocat_professor.png)
 
 {{ page.title }}
 ----------------

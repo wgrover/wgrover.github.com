@@ -3,7 +3,7 @@ layout: post
 title: "Using buoyant mass to measure the growth of single cells"
 ---
 
-[![](images/cell_growth.jpg)](pdfs/cell_growth.pdf)
+[![](http://wgrover.com/images/cell_growth.jpg)](pdfs/cell_growth.pdf)
 
 {{ page.title }}
 ----------------

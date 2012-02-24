@@ -3,7 +3,7 @@ layout: post
 title: "Development and multiplexed control of latching pneumatic valves using microfluidic logical structures"
 ---
 
-[![](images/latching_valves.gif)](pdfs/latching_valves.pdf)
+[![](http://wgrover.com/images/latching_valves.gif)](pdfs/latching_valves.pdf)
 
 {{ page.title }}
 ----------------

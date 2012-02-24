@@ -3,7 +3,7 @@ layout: post
 title: "An integrated microfluidic processor for single nucleotide polymorphism-based DNA computing"
 ---
 
-[![](images/microfluidic_processor.png)](pdfs/microfluidic_processor.pdf)
+[![](http://wgrover.com/images/microfluidic_processor.png)](pdfs/microfluidic_processor.pdf)
 
 {{ page.title }}
 ----------------

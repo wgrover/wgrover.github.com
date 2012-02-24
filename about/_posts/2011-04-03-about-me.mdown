@@ -3,7 +3,7 @@ layout: post
 title: "About me"
 ---
 
-![](../images/wgrover.jpg)
+![](http://wgrover.com/images/wgrover.jpg)
 
 {{ page.title }}
 ----------------

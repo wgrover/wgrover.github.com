@@ -3,7 +3,7 @@ layout: post
 title: "Micropneumatic digital logic structures for integrated microdevice computation and control"
 ---
 
-[![](images/pneumatic_logic.png)](pdfs/pneumatic_logic.pdf)
+[![](http://wgrover.com/images/pneumatic_logic.png)](pdfs/pneumatic_logic.pdf)
 
 {{ page.title }}
 ----------------

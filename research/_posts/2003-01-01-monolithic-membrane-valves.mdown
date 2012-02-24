@@ -3,7 +3,7 @@ layout: post
 title: "Monolithic membrane valves and diaphragm pumps for practical large-scale integration into glass microfluidic devices"
 ---
 
-[![](images/monolithic_membrane_valves.gif)](pdfs/monolithic_membrane_valves.pdf)
+[![](http://wgrover.com/images/monolithic_membrane_valves.gif)](pdfs/monolithic_membrane_valves.pdf)
 
 {{ page.title }}
 ----------------

@@ -3,7 +3,7 @@ layout: post
 title: "Development and evaluation of a microdevice for amino acid biomarker detection and analysis on Mars"
 ---
 
-[![](images/mars_biomarkers.jpg)](pdfs/mars_biomarkers.pdf)
+[![](http://wgrover.com/images/mars_biomarkers.jpg)](pdfs/mars_biomarkers.pdf)
 
 {{ page.title }}
 ----------------

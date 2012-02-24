@@ -3,7 +3,7 @@ layout: post
 title: "Localized deposition of zinc oxide films by automated fluid dispensing method"
 ---
 
-[![](images/film_deposition.gif)](pdfs/film_deposition.pdf)
+[![](http://wgrover.com/images/film_deposition.gif)](pdfs/film_deposition.pdf)
 
 {{ page.title }}
 ----------------
