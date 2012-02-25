@@ -3,7 +3,7 @@ layout: post
 title: "Measuring single-cell density"
 ---
 
-[![](http://wgrover.com/http://wgrover.com/images/cell_density.png)](pdfs/cell_density.pdf)
+[![](http://wgrover.com/images/cell_density.png)](pdfs/cell_density.pdf)
 
 {{ page.title }}
 ----------------
