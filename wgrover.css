@@ -113,12 +113,12 @@ a {
     text-transform: none;
     text-decoration: none;
     font-weight: bold;
-    color: #AAAAAA;
+    color: #000099;
     font-family: 'Droid Sans', sans-serif;
 }
 
 a:hover {
-    color: #0000FF;
+    color: #0099FF;
     text-decoration: underline;
 }
 
