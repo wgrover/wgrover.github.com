@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Introduction to LabVIEW class"
+---
+
+{{ page.title }}
+----------------
+
+<!-- more start -->
+
+I'll be speaking about "Measuring single cell mass, volume, and density" at <a href="http://pittcon.org">Pittcon</a> in Orlando FL on Wednesday March 14 at 4:15, in the "Detection strategies for microfluidic devices" session, room 207B.
+
+<!-- more end -->
