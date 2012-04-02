@@ -1,0 +1,15 @@
+---
+layout: post
+title: "Setting up Python for data analysis"
+---
+
+![](../../../../../../images/python.png)
+
+{{ page.title }}
+----------------
+
+<!-- more start -->
+
+testing
+
+<!-- more end -->
