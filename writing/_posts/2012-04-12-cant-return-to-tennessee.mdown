@@ -3,6 +3,8 @@ layout: post
 title: "Why I can't return to Tennessee"
 ---
 
+![](http://wgrover.com/images/tennessee.jpg)
+
 {{ page.title }}
 ----------------
 
