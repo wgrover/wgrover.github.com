@@ -1,0 +1,16 @@
+---
+layout: post
+title: 'A microfluidic "baby machine" for cell synchronization'
+---
+
+<!-- [![](http://wgrover.com/images/cell_density.png)](pdfs/cell_density.pdf)
+-->
+
+{{ page.title }}
+----------------
+
+Josephine W. Shaw,  Kristofor Payer,  Sungmin Son,  William H. Grover and Scott R. Manalis, *Lab on a Chip*, in press.
+<!-- [Download](pdfs/cell_density.pdf) -->
+
+Common techniques used to synchronize eukaryotic cells in the cell cycle often impose metabolic stress on the cells or physically select for size rather than age. To address these deficiencies, a minimally perturbing method known as the "baby machine" was developed previously. In the technique, suspension cells are attached to a membrane, and as the cells divide, the newborn cells are eluted to produce a synchronous population of cells in the G1 phase of the cell cycle. However, the existing "baby machine" is only suitable for cells which can be chemically attached to a surface. Here, we present a  microfluidic "baby machine"  in which cells are held onto a surface by pressure differences rather than chemical attachment. As a result, our method can in principle be used to synchronize a variety cell types, including cells  which may have weak or unknown surface attachment chemistries. We  validate our microfluidic "baby machine" by using it to produce a synchronous population of newborn L1210 mouse lymphocytic leukemia cells in G1 phase.
+
