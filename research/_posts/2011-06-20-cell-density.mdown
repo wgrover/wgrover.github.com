@@ -8,7 +8,7 @@ title: "Measuring single-cell density"
 {{ page.title }}
 ----------------
 
-William H. Grover, Andrea K. Bryan, Monica Diez-Silva, Subra Suresh, John M. Higgins, and Scott R. Manalis, *Proceedings of the National Academy of Sciences of the United States of America* 108 (27), 10992-10996 (2011).  [Download](pdfs/cell_density.pdf)
+William H. Grover, Andrea K. Bryan, Monica Diez-Silva, Subra Suresh, John M. Higgins, and Scott R. Manalis, *Proceedings of the National Academy of Sciences of the United States of America* **108** (27), 10992-10996 (2011).  [Download](pdfs/cell_density.pdf)
 
 <div style="float:right;margin:10px 0px 10px 10px;"><object width="425" height="349"><param name="movie" value="http://www.youtube.com/v/P5M_C_P02DQ?version=3&amp;hl=en_US&amp;rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/P5M_C_P02DQ?version=3&amp;hl=en_US&amp;rel=0" type="application/x-shockwave-flash" width="300" height="250" allowscriptaccess="always" allowfullscreen="true"></embed></object></div>
 

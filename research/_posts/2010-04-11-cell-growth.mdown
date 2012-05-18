@@ -8,7 +8,7 @@ title: "Using buoyant mass to measure the growth of single cells"
 {{ page.title }}
 ----------------
 
-M. Godin, F. F. Delgado, S. Son, W. H. Grover, A. K. Bryan, A. Tzur, P. Jorgensen, K. Payer, A. D. Grossman, M. W. Kirschner, and S. R. Manalis, *Nature Methods* **7**, 387 - 390 (2010).  [Download](pdfs/cell_growth.pdf)
+Michel Godin, Francisco Feijo Delgado, Sungmin Son, William H. Grover, Andrea K. Bryan, Amit Tzur, Paul Jorgensen, Kris Payer, Alan D. Grossman, Marc W. Kirschner, and Scott R. Manalis, *Nature Methods* **7**, 387 - 390 (2010).  [Download](pdfs/cell_growth.pdf)
 
 We used a suspended microchannel resonator (SMR) combined with picoliter-scale microfluidic control to measure buoyant mass and determine the "instantaneous" growth rates of individual cells. The SMR measures mass with femtogram precision, allowing rapid determination of the growth rate in a fraction of a complete cell cycle. We found that for individual cells of *Bacillus subtilis*, *Escherichia coli*, *Saccharomyces cerevisiae* and mouse lymphoblasts, heavier cells grew faster than lighter cells.
 
